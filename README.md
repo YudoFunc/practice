@@ -5,3 +5,4 @@ Hello, World!
 アイウエオ
 かきくけこ
 hogehoge
+hoge
